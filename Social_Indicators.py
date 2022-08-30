@@ -30,7 +30,7 @@ import plotly.graph_objects as go
 # In[2]:
 
 
-df1 = pd.read_csv("D:/Personal/class/__Masters/6th semester/HIS Project/csv/Final_indicators.csv")
+df1 = pd.read_csv("Final_indicators.csv")
 
 df1.rename(columns={'name': 'Firm Name','energy_cons': 'Energy Consumption(GJ)','employees': 'Total Number of Employees','waste': 'Waste Produced(XXX)',
                     'waste_recycled': 'Waste Recycled',
