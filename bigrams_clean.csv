@@ -1,0 +1,251 @@
+"","company_name","year","variable","word_freq"
+"1","Adidas",2020,"financial statement",494
+"2","Adidas",2020,"consolidated financial",417
+"3","Adidas",2020,"additional information",270
+"4","Adidas",2020,"fair value",176
+"5","Adidas",2020,"financial year",127
+"6","Airbus",2020,"consumption production",4
+"7","Airbus",2020,"economic growth",4
+"8","Airbus",2020,"health safety",4
+"9","Airbus",2020,"sustainable development",2
+"10","Airbus",2020,"bribery corruption",1
+"11","Aixtron",2021,"year report",38
+"12","Aixtron",2021,"sustainability report",25
+"13","Aixtron",2021,"financial statement",22
+"14","Aixtron",2021,"previous year",19
+"15","Aixtron",2021,"economic activity",15
+"16","Allianz",2020,"climate relate",212
+"17","Allianz",2020,"core business",155
+"18","Allianz",2020,"business activity",145
+"19","Allianz",2020,"performance datum",118
+"20","Allianz",2020,"climate change",117
+"21","Alstria",2020,"year year",46
+"22","Alstria",2020,"location base",44
+"23","Alstria",2020,"real estate",43
+"24","Alstria",2020,"market base",38
+"25","Alstria",2020,"climate change",29
+"26","Aroundtown",2021,"economic activity",24
+"27","Aroundtown",2021,"financial report",19
+"28","Aroundtown",2021,"long term",18
+"29","Aroundtown",2021,"health safety",16
+"30","Aroundtown",2021,"human right",16
+"31","Aurubis",2018,"fiscal year",23
+"32","Aurubis",2018,"human right",15
+"33","Aurubis",2018,"production site",15
+"34","Aurubis",2018,"reporting period",11
+"35","Aurubis",2018,"energy consumption",8
+"36","BASF",2020,"depreciation amortization",18
+"37","BASF",2020,"plant equipment",18
+"38","BASF",2020,"property plant",18
+"39","BASF",2020,"property plant equipment",18
+"40","BASF",2020,"currency effect",16
+"41","BASF",2021,"value chain",28
+"42","BASF",2021,"climate protection",23
+"43","BASF",2021,"circular economy",17
+"44","BASF",2021,"product portfolio",15
+"45","BASF",2021,"cost capital",14
+"46","BRO",2021,"scope emission",8
+"47","BRO",2021,"scope emission",8
+"48","BRO",2021,"diversity inclusion",6
+"49","BRO",2021,"diversity inclusion",6
+"50","BRO",2021,"business travel",4
+"51","Bechtle",2020,"reporting year",33
+"52","Bechtle",2020,"supply chain",26
+"53","Bechtle",2020,"health safety",22
+"54","Bechtle",2020,"long term",17
+"55","Bechtle",2020,"previous year",16
+"56","Commerzbank",2020,"risk management",15
+"57","Commerzbank",2020,"service provider",15
+"58","Commerzbank",2020,"reporting year",14
+"59","Commerzbank",2020,"long term",13
+"60","Commerzbank",2020,"human resource",12
+"61","CompugroupMedical",2021,"reporting year",26
+"62","CompugroupMedical",2021,"datum protection",16
+"63","CompugroupMedical",2021,"economic activity",14
+"64","CompugroupMedical",2021,"human right",11
+"65","CompugroupMedical",2021,"service provider",11
+"66","Continental",2021,"report report",129
+"67","Continental",2021,"report report",129
+"68","Continental",2021,"business area",104
+"69","Continental",2021,"business area",104
+"70","Continental",2021,"long term",93
+"71","DHL",2021,"financial statement",281
+"72","DHL",2021,"previous year",230
+"73","DHL",2021,"consolidated financial",201
+"74","DHL",2021,"fair value",113
+"75","DHL",2021,"financial year",101
+"76","Daimler",2020,"human right",163
+"77","Daimler",2020,"supply chain",129
+"78","Daimler",2020,"reporting year",70
+"79","Daimler",2020,"climate protection",49
+"80","Daimler",2020,"datum protection",46
+"81","Delivery Hero",2020,"datum protection",8
+"82","Delivery Hero",2020,"human right",5
+"83","Delivery Hero",2020,"report report",5
+"84","Delivery Hero",2020,"legal requirement",4
+"85","Delivery Hero",2020,"management team",4
+"86","Deutsche Bank",2020,"environmental social",15
+"87","Deutsche Bank",2020,"economic activity",10
+"88","Deutsche Bank",2020,"energy efficiency",6
+"89","Deutsche Bank",2020,"renewable energy",5
+"90","Deutsche Bank",2020,"climate change",4
+"91","Deutsche Bank",2021,"human right",76
+"92","Deutsche Bank",2021,"risk management",72
+"93","Deutsche Bank",2021,"product service",60
+"94","Deutsche Bank",2021,"climate neutral",54
+"95","Deutsche Bank",2021,"management approach",47
+"96","E.ON",2006,"energy efficiency",19
+"97","E.ON",2006,"power plant",19
+"98","E.ON",2006,"climate protection",16
+"99","E.ON",2006,"long term",13
+"100","E.ON",2006,"report report",12
+"101","E.ON",2008,"business unit",23
+"102","E.ON",2008,"occupational safety",21
+"103","E.ON",2008,"human right",18
+"104","E.ON",2008,"long term",16
+"105","E.ON",2008,"power plant",16
+"106","E.ON",2009,"previous year",23
+"107","E.ON",2009,"human right",21
+"108","E.ON",2009,"occupational safety",20
+"109","E.ON",2009,"long term",19
+"110","E.ON",2009,"power plant",19
+"111","E.ON",2010,"power plant",35
+"112","E.ON",2010,"human right",18
+"113","E.ON",2010,"occupational safety",17
+"114","E.ON",2010,"previous year",15
+"115","E.ON",2010,"long term",13
+"116","Eventim",2019,"datum protection",14
+"117","Eventim",2019,"social medium",8
+"118","Eventim",2019,"year review",8
+"119","Eventim",2019,"manage ment",7
+"120","Eventim",2019,"assurance engagement",6
+"121","Fuchs",2020,"supply chain",10
+"122","Fuchs",2020,"health safety",7
+"123","Fuchs",2020,"hold company",7
+"124","Fuchs",2020,"carbon footprint",6
+"125","Fuchs",2020,"energy consumption",6
+"126","GCP",2021,"economic activity",24
+"127","GCP",2021,"health safety",24
+"128","GCP",2021,"long term",21
+"129","GCP",2021,"financial report",19
+"130","GCP",2021,"human right",18
+"131","GEA",2021,"climate friendly",2
+"132","GEA",2021,"environmental protection",2
+"133","GEA",2021,"supply chain",2
+"134","GEA",2021,"balance sheet",1
+"135","GEA",2021,"base year",1
+"136","Hannover RE",2020,"climate change",63
+"137","Hannover RE",2020,"risk management",51
+"138","Hannover RE",2020,"sustainability strategy",39
+"139","Hannover RE",2020,"year review",37
+"140","Hannover RE",2020,"material topic",32
+"141","PUMA",2010,"previous year",128
+"142","PUMA",2010,"financial statement",82
+"143","PUMA",2010,"financial year",70
+"144","PUMA",2010,"consolidated financial",57
+"145","PUMA",2010,"balance sheet",45
+"146","PUMA",2011,"previous year",129
+"147","PUMA",2011,"financial statement",104
+"148","PUMA",2011,"financial year",66
+"149","PUMA",2011,"cash flow",64
+"150","PUMA",2011,"consolidated financial",62
+"151","PUMA",2012,"previous year",145
+"152","PUMA",2012,"financial statement",73
+"153","PUMA",2012,"financial year",69
+"154","PUMA",2012,"cash flow",60
+"155","PUMA",2012,"consolidated financial",44
+"156","PUMA",2013,"previous year",157
+"157","PUMA",2013,"financial statement",68
+"158","PUMA",2013,"cash flow",67
+"159","PUMA",2013,"financial year",63
+"160","PUMA",2013,"fair value",44
+"161","PUMA",2014,"previous year",150
+"162","PUMA",2014,"financial year",71
+"163","PUMA",2014,"financial statement",67
+"164","PUMA",2014,"cash flow",58
+"165","PUMA",2014,"fair value",57
+"166","PUMA",2015,"previous year",155
+"167","PUMA",2015,"financial year",75
+"168","PUMA",2015,"financial statement",61
+"169","PUMA",2015,"cash flow",59
+"170","PUMA",2015,"fair value",56
+"171","PUMA",2016,"previous year",157
+"172","PUMA",2016,"financial statement",91
+"173","PUMA",2016,"financial year",86
+"174","PUMA",2016,"cash flow",70
+"175","PUMA",2016,"fair value",62
+"176","PUMA",2019,"previous year",233
+"177","PUMA",2019,"financial year",151
+"178","PUMA",2019,"financial statement",115
+"179","PUMA",2019,"cash flow",107
+"180","PUMA",2019,"balance sheet",85
+"181","PUMA",2020,"previous year",217
+"182","PUMA",2020,"financial year",160
+"183","PUMA",2020,"financial statement",121
+"184","PUMA",2020,"consolidated financial",92
+"185","PUMA",2020,"long term",88
+"186","PUMA",2021,"previous year",224
+"187","PUMA",2021,"financial year",148
+"188","PUMA",2021,"financial statement",123
+"189","PUMA",2021,"consolidated financial",97
+"190","PUMA",2021,"supply chain",84
+"191","Puma",2018,"supply chain",26
+"192","Puma",2018,"sustainability report",11
+"193","Puma",2018,"assurance engagement",9
+"194","Puma",2018,"climate change",9
+"195","Puma",2018,"sustainability strategy",9
+"196","RTL Group",2020,"business unit",6
+"197","RTL Group",2020,"intellectual property",5
+"198","RTL Group",2020,"anti corruption",4
+"199","RTL Group",2020,"human right",3
+"200","RTL Group",2020,"management position",3
+"201","RTL Group",2021,"intellectual property",7
+"202","RTL Group",2021,"senior management",6
+"203","RTL Group",2021,"business unit",5
+"204","RTL Group",2021,"management position",5
+"205","RTL Group",2021,"anti corruption",4
+"206","SAG",2021,"financial statement",136
+"207","SAG",2021,"reporting year",111
+"208","SAG",2021,"consolidated financial",90
+"209","SAG",2021,"prior year",76
+"210","SAG",2021,"long term",71
+"211","Scout24",2021,"economic activity",23
+"212","Scout24",2021,"energy consumption",21
+"213","Scout24",2021,"diversity inclusion",20
+"214","Scout24",2021,"business partner",19
+"215","Scout24",2021,"datum protection",19
+"216","Siemens Healthineers",2021,"fiscal year",95
+"217","Siemens Healthineers",2021,"sustainability report",60
+"218","Siemens Healthineers",2021,"human right",42
+"219","Siemens Healthineers",2021,"year year",42
+"220","Siemens Healthineers",2021,"employee employee",33
+"221","Siltronic",2021,"financial statement",167
+"222","Siltronic",2021,"previous year",121
+"223","Siltronic",2021,"management report",114
+"224","Siltronic",2021,"cash flow",112
+"225","Siltronic",2021,"fiscal year",93
+"226","Uniper",2020,"power plant",60
+"227","Uniper",2020,"human right",27
+"228","Uniper",2020,"carbon emission",17
+"229","Uniper",2020,"datum protection",16
+"230","Uniper",2020,"energy supply",16
+"231","United Internet",2020,"customer satisfaction",42
+"232","United Internet",2020,"business partner",38
+"233","United Internet",2020,"reporting period",32
+"234","United Internet",2020,"service provider",32
+"235","United Internet",2020,"fiscal year",29
+"236","VARTA",2020,"environmental protection",4
+"237","VARTA",2020,"people environment",4
+"238","VARTA",2020,"high quality",3
+"239","VARTA",2020,"high standard",3
+"240","VARTA",2020,"support employee",3
+"241","Zeiss",2019,"fiscal year",83
+"242","Zeiss",2019,"health safety",39
+"243","Zeiss",2019,"occupational health",29
+"244","Zeiss",2019,"occupational health safety",27
+"245","Zeiss",2019,"human right",24
+"246","Zalando",2021,"supply chain",46
+"247","Zalando",2021,"financial report",34
+"248","Zalando",2021,"management approach",26
+"249","Zalando",2021,"business partner",21
+"250","Zalando",2021,"ethical standard",20
