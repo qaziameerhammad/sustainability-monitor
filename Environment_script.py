@@ -7,10 +7,8 @@ import io
 from dash import html, dcc, callback, Input, Output
 import plotly.express as px 
 
-dash.register_page(__name__, path='/environment')
-url = "Final_indicators.csv"
-s = requests.get(url).content
-df1 = pd.read_csv(io.StringIO(s.decode('utf-8')))
+
+df1 = pd.read_csv("Final_indicators.csv")
 
 
 df1.rename(columns={'name': 'Firm Name','year': 'Years','scope_3': 'Scope 3 (Emissions in Tons)','scope_2': 'Scope 2 (Emissions in Tons)','scope_1':
