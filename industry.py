@@ -12,11 +12,8 @@ import pandas as pd
 import requests
 import io
 
-dash.register_page(__name__, path='/industry')
 
-url = "https://files.sustainabilitymonitor.org/csv-data/Group2Data.csv"
-s = requests.get(url).content
-df1 = pd.read_csv(io.StringIO(s.decode('utf-8')))
+df1 = pd.read_csv("Group2Data.csv")
 
 df1.rename(columns={'scope_3': 'Scope 3(Emissions in Tons)','scope_2': 'Scope 2(Emissions in Tons)','scope_1':
                     'Scope 1(Emissions in Tons)','year': 'Years','energy_cons': 'Energy Consumption(GJ)','employees':
